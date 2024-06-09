@@ -9,7 +9,7 @@
 ## Test
 **6. errors.log:** errors log when you push duplicate or twice.<br>
 **7. test_feed.xml** test xml file with one entry, which you can modify by changing entity_id<br>
-**8. import_data.php and generate_report.php:** help to push the test XML and generate a report named **database_report.txt** where you can see changes in the number of push data if successfully pushed to other otherwise current data cells.<br>
+**8. import_data.php and generate_report.php:** help to push the test XML to the database and generate a report named **database_report.txt** where you can see changes in the number of push data if successfully pushed otherwise number of current data cells.<br>
 ## Commands
 * *php scrape_var_feed.php* *<br>
 * *php index.php* *<br>
