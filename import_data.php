@@ -35,7 +35,7 @@ function importDataFromXML($xml_file) {
         $mysql = "INSERT INTO products (entity_id, CategoryName, sku, name, description, shortdesc, price, link, image, Brand, Rating, CaffeineType, Count, Flavored, Seasonal, Instock, Facebook, IsKCup)
         VALUES ('$entity_id', '$CategoryName', '$sku', '$name', '$description', '$shortdesc', '$price', '$link', '$image', '$Brand', '$Rating', '$CaffeineType', '$Count', '$Flavored', '$Seasonal', '$Instock', '$Facebook', '$IsKCup')";
 
-        // Execute query and handle errors
+      
         if ($conn->query($mysql) !== TRUE) {
             echo "Error occurred for entity_id: $entity_id\n";
         }
