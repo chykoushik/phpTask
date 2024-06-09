@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<products>
+    <item>
+        <entity_id>114</entity_id>
+        <CategoryName>Kirkel</CategoryName>
+        <sku>1</sku>
+        <name>Kirkel</name>
+        <description>Saarland</description>
+        <shortdesc>Germany</shortdesc>
+        <price>66459</price>
+        <link>http://example.com/test-product</link>
+        <image>http://example.com/image.jpg</image>
+        <Brand>Brand</Brand>
+        <Rating>500</Rating>
+        <CaffeineType>Caffeine</CaffeineType>
+        <Count>1</Count>
+        <Flavored>No</Flavored>
+        <Seasonal>No</Seasonal>
+        <Instock>Yes</Instock>
+        <Facebook>1</Facebook>
+        <IsKCup>1</IsKCup>
+    </item>
+</products>

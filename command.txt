@@ -1,0 +1,6 @@
+php scrape_var_feed.php
+
+php index.php
+
+php generate_report.php
+
