@@ -1,5 +1,5 @@
 ## Basic
-**1. scrape_var_feed.php:** find out the variable from that feed.xml file and saved it to **var_names.txt** <br>
+**1. scrape_var_feed.php:** scrape out the variable from that feed.xml file and saved it to **var_names.txt** <br>
 **2. var_names.txt:** listed all of the variables from feed.xml by runnung **scrape_var_feed.php:** <br>
 **3. config_mysql.php:** MySQL configuration. <br>
 **a) Database name:** db_task<br>
